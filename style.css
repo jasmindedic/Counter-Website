@@ -47,7 +47,7 @@ body {
 /* Media queries*/
 @media(max-width: 456px){
     .container{
-        margin-left: 5px;
-        margin-right: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
